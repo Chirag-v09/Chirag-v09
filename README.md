@@ -12,7 +12,7 @@
 <a href="https://github.com/Chirag-v09">
   <img align="left" alt="Chirag's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
+<a href="https://t.me/Chiragv09">
   <img align="left" alt="Chirag's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/chirag_v09/">
