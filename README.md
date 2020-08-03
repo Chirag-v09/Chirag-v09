@@ -28,14 +28,14 @@
 <!--
 **Chirag-v09/Chirag-v09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on NLP Projects.
+- 🌱 I’m currently learning NLP.
+- 👯 I’m looking to collaborate on New Projects.
+- 🤔 I’m looking for help with Ml with AR.
+- 💬 Ask me about Machine Learning and Deep Learning.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-verma-205005159/">Chirag Verma</a>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: If I like a song then spend whole night by listing the same song.
 
 
 [![Twitter: ChiragV67208048](https://img.shields.io/twitter/follow/ChiragV67208048?style=social)](https://twitter.com/ChiragV67208048)
@@ -47,7 +47,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-v09&show_icons=true&theme=dark&line_height=27" alt="Chirag's github stats"/>
 </a>
 
-
+<a href="https://github.com/Chirag-v09/Sign-Language-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag-v09&repo=Sign-Language-Detection&theme=dark" />
+</a>
 
 <div align="center">
 
