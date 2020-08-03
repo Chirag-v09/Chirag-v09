@@ -1,7 +1,7 @@
 ### Hello, I'm Chirag Verma! 👋
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-v09&label=Views&color=blue&style=plastic" alt="Chirag-v09" /> </p>
 
 <a href="https://twitter.com/ChiragV67208048">
   <img align="left" alt="Chirag's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
