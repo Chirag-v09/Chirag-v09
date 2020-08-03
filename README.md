@@ -39,7 +39,7 @@
 
 
 [![Twitter: ChiragV67208048](https://img.shields.io/twitter/follow/ChiragV67208048?style=social)](https://twitter.com/ChiragV67208048)
-[![Linkedin: chirag-verma-205005159](https://img.shields.io/badge/-chirag-verma-205005159-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-verma-205005159/)](https://www.linkedin.com/in/chirag-verma-205005159/)
+[![Linkedin: chirag-verma-205005159](https://img.shields.io/badge/-chirag-verma-205005159?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-verma-205005159/)](https://www.linkedin.com/in/chirag-verma-205005159/)
 [![GitHub Chirag-v09](https://img.shields.io/github/followers/Chirag-v09?label=follow&style=social)](https://github.com/Chirag-v09)
 [![website](https://img.shields.io/badge/PortfolioWebsite-chiragverma.zyrosite.com-2648ff?style=flat-square&logo=google-chrome)](https://chiragverma.zyrosite.com/)
 
