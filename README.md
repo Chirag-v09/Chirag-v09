@@ -43,8 +43,14 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-chiragverma.zyrosite.com-2648ff?style=flat-square&logo=google-chrome)](https://chiragverma.zyrosite.com/)
 <!-- [![Linkedin: chirag-verma-205005159](https://img.shields.io/badge/-chirag-verma-205005159?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-verma-205005159/)](https://www.linkedin.com/in/chirag-verma-205005159/) -->
 
+<a href="https://github.com/Chirag-v09">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-v09&show_icons=true&theme=dark&line_height=27" alt="Chirag's github stats"/>
+</a>
 
 
 
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
 
+</div>
