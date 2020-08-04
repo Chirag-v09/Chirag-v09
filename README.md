@@ -31,7 +31,7 @@
 - 🔭 I’m currently working on NLP Projects.
 - 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on New Projects.
-- 🤔 I’m looking for help with Ml with AR.
+- 🤔 I’m looking for help with Ml with AR and NLP.
 - 💬 Ask me about Machine Learning and Deep Learning.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-verma-205005159/">Chirag Verma</a>
 - 😄 Pronouns: He/His
