@@ -37,6 +37,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: If I like a song then spend whole night by listing the same song.
 
+<h3>More About Me! <img align='left' img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"></h3>
 
 [![Twitter: ChiragV67208048](https://img.shields.io/twitter/follow/ChiragV67208048?style=social)](https://twitter.com/ChiragV67208048)
 [![GitHub Chirag-v09](https://img.shields.io/github/followers/Chirag-v09?label=follow&style=social)](https://github.com/Chirag-v09)
