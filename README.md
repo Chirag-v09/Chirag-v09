@@ -52,6 +52,9 @@
 <a href="https://github.com/Chirag-v09/Sign-Language-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag-v09&repo=Sign-Language-Detection&theme=dark" />
 </a>
+<a href="https://github.com/Chirag-v09/Video-Classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag-v09&repo=Video-Classification&theme=white" />
+</a>
 
 <div align="center">
 
