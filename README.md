@@ -28,10 +28,10 @@
 <!--
 **Chirag-v09/Chirag-v09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on NLP Projects.
-- 🌱 I’m currently learning NLP.
+- 🔭 I’m currently working on Computer Vision Projects.
+- 🌱 I’m currently learning Docker.
 - 👯 I’m looking to collaborate on New Projects.
-- 🤔 I’m looking for help with Ml with AR and NLP.
+- 🤔 I’m looking for help with Docker.
 - 💬 Ask me about Data Science, Machine Learning and Deep Learning.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-verma-205005159/">Chirag Verma</a>
 - 😄 Pronouns: He/His
