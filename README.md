@@ -53,6 +53,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-v09&show_icons=true&theme=dark&line_height=27" alt="Chirag's github stats"/>
 </a>
 
+<br>
+
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
