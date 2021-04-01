@@ -1,4 +1,4 @@
-## Hello 👋 , I'm [Chirag Verma!](https://chiragverma.zyrosite.com/)
+## Hello 👋 , I'm [Chirag Verma!](https://chiragverma.zyrosite.com/) <img src="https://github.com/Chirag-v09/Chirag-v09/blob/master/Developer.gif" width="65px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-v09&label=Views&color=blue&style=plastic" alt="Chirag-v09" /> </p>
