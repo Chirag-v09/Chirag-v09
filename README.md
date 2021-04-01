@@ -89,3 +89,5 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Chirag-v09/Chirag-v09/blob/master/marquee.svg"/>
