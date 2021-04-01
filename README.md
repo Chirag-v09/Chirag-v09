@@ -39,11 +39,15 @@
 - ⚡ Fun fact: If I like a song then spend whole night by listing the same song.
 
 <h3>More About Me! <img align='left' img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"></h3>
+<br>
 
 
 <!-- [![GitHub Chirag-v09](https://img.shields.io/github/followers/Chirag-v09?label=follow&style=social)](https://github.com/Chirag-v09) -->
 <!-- [![Linkedin: chirag verma 205005159](https://img.shields.io/badge/-chirag-verma-205005159-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-verma-205005159/)](https://www.linkedin.com/in/chirag-verma-205005159/) -->
 
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-v09&theme=dark&custom_title=streak-stats&hide_border=true&layout=compact" />
 
 <a href="https://github.com/Chirag-v09">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-v09&show_icons=true&theme=dark&line_height=27" alt="Chirag's github stats"/>
