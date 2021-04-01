@@ -73,6 +73,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag-v09&repo=Video-Classification&theme=dark" />
 </a>
 
+<br>
+
+<details>
+  <summary>Most used languages :heart: </summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-v09&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="kushal997-das" /></p>
+</details> <br>
+
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
