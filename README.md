@@ -1,7 +1,7 @@
 ## Hello 👋 , I'm [Chirag Verma!](https://chiragverma.zyrosite.com/) <img src="https://github.com/Chirag-v09/Chirag-v09/blob/master/Developer.gif" width="65px">
 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/Chirag-v09) <!-- [![Profile](https://Visitor-badge.glitch.me/badge?page_id=Chirag-v09.profileviews-badge)](https://github.com/Chirag-v09) --> [![followers](https://img.shields.io/github/followers/Chirag-v09?style=social)](https://github.com/Chirag-v09?tab=followers) [![Repos Badge](https://badges.pufler.dev/repos/Chirag-v09)](https://github.com/Chirag-v09?tab=repositories)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/Chirag-v09) <!-- [![Profile](https://Visitor-badge.glitch.me/badge?page_id=Chirag-v09.profileviews-badge)](https://github.com/Chirag-v09) --> [![followers](https://img.shields.io/github/followers/Chirag-v09?style=social)](https://github.com/Chirag-v09?tab=followers) [![Repos Badge](https://badges.pufler.dev/repos/Chirag-v09)](https://github.com/Chirag-v09?tab=repositories) [![Twitter: ChiragV67208048](https://img.shields.io/twitter/follow/ChiragV67208048?style=social)](https://twitter.com/ChiragV67208048) [![website](https://img.shields.io/badge/PortfolioWebsite-chiragverma.zyrosite.com-2648ff?style=flat-square&logo=google-chrome)](https://chiragverma.zyrosite.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-v09&label=Views&color=blue&style=plastic" alt="Chirag-v09" /> </p>
 
 <a href="https://twitter.com/ChiragV67208048">
@@ -40,9 +40,8 @@
 
 <h3>More About Me! <img align='left' img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"></h3>
 
-[![Twitter: ChiragV67208048](https://img.shields.io/twitter/follow/ChiragV67208048?style=social)](https://twitter.com/ChiragV67208048)
-[![GitHub Chirag-v09](https://img.shields.io/github/followers/Chirag-v09?label=follow&style=social)](https://github.com/Chirag-v09)
-[![website](https://img.shields.io/badge/PortfolioWebsite-chiragverma.zyrosite.com-2648ff?style=flat-square&logo=google-chrome)](https://chiragverma.zyrosite.com/)
+
+<!-- [![GitHub Chirag-v09](https://img.shields.io/github/followers/Chirag-v09?label=follow&style=social)](https://github.com/Chirag-v09) -->
 <!-- [![Linkedin: chirag verma 205005159](https://img.shields.io/badge/-chirag-verma-205005159-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-verma-205005159/)](https://www.linkedin.com/in/chirag-verma-205005159/) -->
 
 
