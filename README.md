@@ -34,7 +34,7 @@
 - 👯 I’m looking to collaborate on New Projects.
 - 🤔 I’m looking for help with Docker.
 - 💬 Ask me about Data Science, Machine Learning and Deep Learning.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-verma-205005159/">Chirag Verma</a> <a href="mailto:cv091998@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-verma-205005159/">Chirag Verma</a> <a href="mailto:cv091998@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/></a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: If I like a song then spend whole night by listing the same song.
 
