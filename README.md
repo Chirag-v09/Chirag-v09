@@ -57,7 +57,7 @@
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Chirag-v09&theme=dark&layout=compact&title_color=00FF00"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Chirag-v09&theme=juicyfresh&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 </details>
