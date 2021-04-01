@@ -2,7 +2,7 @@
 
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/Chirag-v09)
-// [![Profile](https://Visitor-badge.glitch.me/badge?page_id=Chirag-v09.profileviews-badge)](https://github.com/Chirag-v09)
+<-- [![Profile](https://Visitor-badge.glitch.me/badge?page_id=Chirag-v09.profileviews-badge)](https://github.com/Chirag-v09) --!>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-v09&label=Views&color=blue&style=plastic" alt="Chirag-v09" /> </p>
 
 <a href="https://twitter.com/ChiragV67208048">
