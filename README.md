@@ -53,6 +53,16 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-v09&show_icons=true&theme=dark&line_height=27" alt="Chirag's github stats"/>
 </a>
 
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Chirag-v09&theme=dark&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
+</details>
+
+<br>
 <a href="https://github.com/Chirag-v09/Sign-Language-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag-v09&repo=Sign-Language-Detection&theme=dark" />
 </a>
