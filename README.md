@@ -1,8 +1,8 @@
 ## Hello 👋 , I'm [Chirag Verma!](https://chiragverma.zyrosite.com/) <img src="https://github.com/Chirag-v09/Chirag-v09/blob/master/Developer.gif" width="65px">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-v09&label=Views&color=blue&style=plastic" alt="Chirag-v09" /> </p>
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-v09&label=Views&color=blue&style=plastic" alt="Chirag-v09" /> </p>
 
 <a href="https://twitter.com/ChiragV67208048">
   <img align="left" alt="Chirag's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
