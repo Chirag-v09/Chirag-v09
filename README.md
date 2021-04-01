@@ -74,12 +74,14 @@
 </a>
 
 <br>
+<br>
 
 <details>
   <summary>Most used languages :heart: </summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-v09&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="kushal997-das" /></p>
 </details> <br>
+<br>
 
 
 <div align="center">
