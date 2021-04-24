@@ -31,8 +31,8 @@
 
 - 🔭 I’m currently working on Computer Vision Projects.
 - 🌱 I’m currently learning Docker.
-- 👯 I’m looking to for New and innovative Projects in AI.
-<!-- - 🤔 I’m looking for help with Docker. -->
+- 👯 I’m looking to for New and innovative Projects in AI.<!--
+- 🤔 I’m looking for help with Docker. -->
 - 💬 Ask me about Data Science, Machine Learning and Deep Learning.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chirag-verma-205005159/">Chirag Verma</a> <a href="mailto:cv091998@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/></a>
 - 😄 Pronouns: He/His
