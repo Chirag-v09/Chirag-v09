@@ -25,8 +25,8 @@
 <br/>
 <br/>
 
-<!-- [![@chiragv09's Holopin board](https://holopin.me/chiragv09)](https://holopin.io/@chiragv09) -->
-[(https://holopin.me/chiragv09)](https://holopin.io/@chiragv09)
+[![@chiragv09's Holopin board](https://holopin.me/chiragv09)](https://holopin.io/@chiragv09)
+<!-- [(https://holopin.me/chiragv09)](https://holopin.io/@chiragv09) -->
 
 <br/>
 <br/>
