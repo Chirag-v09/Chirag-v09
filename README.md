@@ -26,7 +26,7 @@
 <br/>
 
 [![@chiragv09's Holopin board](https://holopin.me/chiragv09)](https://holopin.io/@chiragv09)
-[![An image of @chiragv09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chiragv09)](https://holopin.io/@chiragv09)
+[(https://holopin.me/chiragv09)](https://holopin.io/@chiragv09)
 
 <br/>
 <br/>
