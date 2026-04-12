@@ -4,7 +4,7 @@
 <!-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/chirag-v09/) [![followers](https://img.shields.io/github/followers/Chirag-v09?style=social)](https://github.com/Chirag-v09?tab=followers) [![Repos Badge](https://badges.pufler.dev/repos/Chirag-v09)](https://github.com/Chirag-v09?tab=repositories) [![Twitter: ChiragV67208048](https://img.shields.io/twitter/follow/ChiragV67208048?style=social)](https://twitter.com/ChiragV67208048) [![website](https://img.shields.io/badge/PortfolioWebsite-chiragverma.zyrosite.com-2648ff?style=flat-square&logo=google-chrome)](https://chiragverma.zyrosite.com/) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag-v09&label=Views&color=blue&style=plastic" alt="Chirag-v09" /> </p>
 
-<a href="https://twitter.com/ChiragV67208048">
+<!-- <a href="https://twitter.com/ChiragV67208048">
   <img align="left" alt="Chirag's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chirag-verma-205005159/">
@@ -21,7 +21,7 @@
 </a>
 <a href="https://www.facebook.com/chiragverma09/">
   <img align="left" alt="Chirag's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> -->
 
 <br/>
 <br/>
